@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ground
+  - Enemy
+  - Checkpoint
+  - Trap
   layers:
   - Default
   - TransparentFX
@@ -13,8 +16,8 @@ TagManager:
   - Water
   - UI
   - Wall
-  - 
-  - 
+  - Player
+  - Enemy
   - 
   - 
   - 
