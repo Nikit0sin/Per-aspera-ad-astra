@@ -178,7 +178,7 @@ MonoBehaviour:
   damage: 1
   speed: 10
   range: 18
-  checkDelay: 1
+  checkDelay: 0.2
   obstacleLayers:
     serializedVersion: 2
     m_Bits: 72
